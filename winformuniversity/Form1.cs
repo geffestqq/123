@@ -17,6 +17,7 @@ namespace winformuniversity
 {
     public partial class Form1 : Form
     {
+        //test git
         string connect = "Data Source = DESKTOP-T3ECMD0\\GEFFEST; Initial Catalog = Universitet_Bekov; Persist Security Info = true; User ID = sa; Password = \"c2f5i4f53\"";
         private string QR = "";
         SqlDataAdapter adapter;
